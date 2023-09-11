@@ -13,7 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://codemyown.github.io/ajayportfolio.github.io/](https://codemyown.github.io/ajayportfolio.github.io/)
 
-- 📫 How to reach me **social media**
 
 - 📄 Know about my experiences [Python Developer at Freelancing](Python Developer at Freelancing)
 
