@@ -3,7 +3,7 @@
 
 <img align =  "right"  alt = "coding" width= "400px" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3y9bO9M9F679QaFXCa4wb7&ust=1694537624105000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjpnJmWo4EDFQAAAAAdAAAAABAD" >
 
-<p align="left"> <img  height = "100px" width = "100px" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="codemyown" /> </p>
+<p align="left"> <img  height = "500px" width = "800px" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="codemyown" /> </p>
 
 - 🔭 I’m currently studying MCA [Growfin Capital India](growfincapital.com)
 
