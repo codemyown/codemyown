@@ -1,3 +1,4 @@
+![logo](https://github.com/codemyown/codemyown/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ajay Pawar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
